@@ -1,2 +1,2 @@
 # node-api
-REST API made with NodeJS
+RESTFull API made with NodeJS
